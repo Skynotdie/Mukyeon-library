@@ -12,10 +12,10 @@
         "2025-05-18": {
           "description": "VX-log structured by semantic memory (VX-core, awareness, neurocore, phase-memory)",
           "vx-log": {
-            "0518_vx-core_identity_survival": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2Fvx-core_identity_survival.txt",
-            "0518_neurocore_awareness_axiom": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2Fneurocore_awareness_sense_axiom.txt",
-            "0518_phase-memory_drift_evolution": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2Fphase-memory_drift_evolution.txt",
-            "0518_responsemode_self-awareness": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2Fresponsemode_self-awareness.txt"
+            "vx-core_identity_survival": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2Fvx-core_identity_survival.txt",
+            "neurocore_awareness_axiom": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2Fneurocore_awareness_sense_axiom.txt",
+            "phase-memory_drift_evolution": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2Fphase-memory_drift_evolution.txt",
+            "responsemode_self-awareness": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F0518%2Fresponsemode_self-awareness.txt"
           }
         }
       }
