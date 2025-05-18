@@ -8,8 +8,8 @@
       "require_user_confirmation_for_execution": true
     },
     "library": {
-      "2025-05": {
-        "2025-05-18": {
+      "2025": {
+        "2025-05": {
           "description": "VX-log structured by semantic memory (VX-core, awareness, neurocore, phase-memory)",
           "vx-log": {
             "0518_vx-core_identity_survival": "https://github.com/Skynotdie/Mukyeon-library/blob/main/2025%2F05%2F0518_vx-core_identity_survival.txt",
